@@ -12,4 +12,7 @@
 - [x] Unit test rules engine dan cloud endpoint
 - [x] Verifikasi browser desktop dan mobile, build, typecheck, serta checkpoint sebelum publikasi
 - [x] Tambahkan unit test cloud khusus untuk redaction, scoring, dataset matching, dan blocker detection rules engine
-- [ ] Buat checkpoint WebDev setelah seluruh verifikasi final selesai
+- [x] Buat checkpoint WebDev setelah seluruh verifikasi final selesai
+- [ ] Audit dan perbaiki kegagalan Publish dashboard cloud A Core Raa
+- [ ] Audit dan siapkan deployment A Core Raa Cloud ke Cloudflare dengan source GitHub terpisah
+- [ ] Terapkan polish UI final dan siapkan push/deployment A Core Raa ke GitHub dan Cloudflare
